@@ -6,3 +6,4 @@ A landing page foi constrída com HTML e CSS. Acabei não optando pela construç
 
 Busquei deixar todos os elementos da Landing Page, o mais parecido possível com a estética do site da empresa e o mais simples possível. Passando a mensagem que a empresa deseja passar para seus funcionários, e chamando sua atenção somente para a mensagem e detalhes de como aconteçera a reabertura da empresa.
 
+![landing-page-fcamara](https://user-images.githubusercontent.com/83620153/136674196-72293d5f-6a29-48b0-9386-eb968ebc9c4b.png)
